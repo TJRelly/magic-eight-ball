@@ -15,9 +15,9 @@ I developed an interactive simulation of the classic Magic Eight Ball toy using 
 ### Technical Highlights:
 - Implemented randomized answer selection to enhance user engagement.
 - Employed conditional rendering to update the ball's appearance seamlessly.
-- Designed the component to be reusable and easily configurable with different sets of answers.
+- Designed the component to be reusable and easily configurable with different sets of answers and colors.
 
-This project demonstrates my ability to create interactive, state-driven applications with a clean and maintainable codebase, showcasing my proficiency in React and front-end development.
+This project demonstrates my ability to create interactive, state-driven applications with a clean and maintainable codebase, showcasing my React and front-end development proficiency.
 
 ### Running a React App from GitHub
 
