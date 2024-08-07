@@ -19,6 +19,8 @@ I developed an interactive simulation of the classic Magic Eight Ball toy using 
 
 This project demonstrates my ability to create interactive, state-driven applications with a clean and maintainable codebase, showcasing my React and front-end development proficiency.
 
+### Deployment: [Magic Eight Ball](https://magic-eight-ball-iota.vercel.app/)
+
 ### Running a React App from GitHub
 
 1. **Clone the Repository:**
