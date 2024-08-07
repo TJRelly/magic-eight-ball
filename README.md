@@ -1,4 +1,4 @@
-# Magic Eight Ball
+# [Magic Eight Ball](https://magic-eight-ball-iota.vercel.app/)
 
 ## Project: Interactive Magic Eight Ball Simulation
 
