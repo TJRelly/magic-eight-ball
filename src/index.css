@@ -25,9 +25,11 @@ a:hover {
 body {
   margin: 0;
   display: flex;
-  place-items: center;
+  /* place-items: center; */
   min-width: 320px;
   min-height: 100vh;
+  background: url('https://img.freepik.com/free-vector/realistic-dynamic-fog-background_23-2149111164.jpg?t=st=1722992223~exp=1722995823~hmac=4cace265ef5d3de4c5913628b99267c00c70e3e5392491334dd044a4cc519114&w=996') no-repeat center center;
+  background-size: cover;
 }
 
 h1 {
